@@ -10,6 +10,9 @@ export default {
         "purple-bg": "url('./src/public/img/purple-bg.jpg')",
         "perf-img": "url('./src/public/img/Perfil.jpg')",
       },
+      fontFamily: {
+        Oxanium: ['Oxanium'],
+      },
     },
   },
   plugins: [],
