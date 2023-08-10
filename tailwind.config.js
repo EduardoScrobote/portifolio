@@ -8,6 +8,7 @@ export default {
     extend: {
       backgroundImage: {
         "purple-bg": "url('./src/public/img/purple-bg.jpg')",
+        "perf-img": "url('./src/public/img/Perfil.jpg')",
       },
     },
   },
